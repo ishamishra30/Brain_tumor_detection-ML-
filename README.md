@@ -128,7 +128,9 @@ ________________________________________
 Content:
 
 •	Model achieved high accuracy
+
 <img width="386" height="278" alt="accuracy" src="https://github.com/user-attachments/assets/25474fb2-1551-4f97-bf7a-a602cd75d6ec" />
+
 <img width="386" height="278" alt="loss" src="https://github.com/user-attachments/assets/1dbe17a7-1cb0-4f4e-9c2b-3313e7df04dd" />
 
 •	Displays:
@@ -144,7 +146,16 @@ o	Execution Time
 •	Real-time prediction using saved model
 
 <img width="1668" height="938" alt="1" src="https://github.com/user-attachments/assets/11a356e0-8a03-43d1-826a-915354236fcb" />
+
 <img width="1674" height="1015" alt="2" src="https://github.com/user-attachments/assets/06f140f4-dafa-46cf-98d7-d4b6fbafdc9d" />
+
+<img width="1704" height="987" alt="3" src="https://github.com/user-attachments/assets/056657ba-7256-44ec-8a7d-46601a1d35d4" />
+
+<img width="1722" height="955" alt="4" src="https://github.com/user-attachments/assets/6b4fa41f-5e60-4be0-881a-3c6823b0c84c" />
+
+<img width="1733" height="977" alt="5" src="https://github.com/user-attachments/assets/e6ef5564-f90c-4911-916a-06f78e409efa" />
+
+
 
 
 
