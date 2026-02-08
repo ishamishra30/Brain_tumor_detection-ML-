@@ -141,6 +141,10 @@ o	Execution Time
 
 •	Real-time prediction using saved model
 
+
+<img width="386" height="278" alt="accuracy" src="https://github.com/user-attachments/assets/25474fb2-1551-4f97-bf7a-a602cd75d6ec" />
+<img width="386" height="278" alt="loss" src="https://github.com/user-attachments/assets/1dbe17a7-1cb0-4f4e-9c2b-3313e7df04dd" />
+
 ________________________________________
 
 🚧  Challenges & Future Scope
