@@ -38,17 +38,29 @@ ___________________________________________
 Content (Flow Diagram Style):
 
 User Login/Registration
+
 ⬇
+
 MRI Image Upload
+
 ⬇
+
 Preprocessing (Resize, Grayscale)
+
 ⬇
+
 Segmentation (Thresholding using OpenCV)
+
 ⬇
+
 CNN Feature Extraction
+
 ⬇
+
 Tumor Classification
+
 ⬇
+
 Prediction Output + Execution Time
 
 __________________________________________
